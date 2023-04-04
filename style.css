@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    
+
+}
+.container{
+    margin-bottom: 50px;
+}
+
+.bg{
+    background-image: url(img/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.bg1{
+    background-image: url(img/bg-2.png);
+    background-repeat: no-repeat;
+    background-position:0 100% ;
+    
+}
+.buy-button{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    
+
+}
+.see{
+    color: #FF9D00;
+    text-align: end;
+}
+.box:hover{
+    box-shadow: 2px 2px 10px rgb(83, 15, 132);
+    border: none;
+}
+.hr{
+    width: 180px;
+    border: 5px solid rgb(255, 119, 0);
+    border-radius: 5px;
+    margin: auto;
+    margin-bottom: 100px;
+    
+}
+.bag{
+    padding: 45px;
+
+   
+}
+.perfume{
+    margin-bottom: 20px;
+    padding: 40px;
+    
+    
+}
+.shoe{
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    width: 100%;
+    
+}
+
